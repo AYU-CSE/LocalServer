@@ -16,5 +16,16 @@ File server<br>
 CSE Web server<br>
 Linux server (01/02 for the sophomore linux classes)<br>
 
+## Computer Spec.
+CPU: 14700
+GPU: RTX 4060
+RAM: 32GB
+X2
+
+CPU: intel i7-2600
+GPU: radeon HD-6670
+RAM: 16GB
+x7
+===
 Author, ScorTnT (2021E7039)
-====================================================================
+===
